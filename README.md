@@ -13,7 +13,7 @@ This project builds a Machine Learning model to detect the IMDb movie reviews an
 ## Model
 A **MultinomialNB** was trained to clasiify reviews as Positive or Negative.
 
-## Evualtion Metrics
+## Evaluation Metrics
 -Accuracy
 -Confusion Matrix
 -Precision, recall, F1-Score
