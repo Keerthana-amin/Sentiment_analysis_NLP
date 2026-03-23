@@ -25,4 +25,4 @@ It's right about 84% of the time. When a review is actually negative, it catches
 It's right about 87% of the time. When a review is actually positive, it catches 84% of them. F1-score: This number combines both precision and recall. It's a balanced measure of correctness
 
 ## Author 
-Keerthana
+Keerthana amin
